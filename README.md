@@ -16,14 +16,16 @@
 - Monthly subscription cost is roughly equal to the price of a pack of bait.
 - All funds go to maintaining the developer account and further app development.  
 
+### Contacts & Communities 📱
+- [Telegram Group](https://t.me/BiteZoneGroup)  
+- [Telegram Channel](https://t.me/BiteZoneApp)
+
+### Release notes ☑️
+See what’s new and how we’ve improved [Release notes](release-notes.md)
 
 ### Upcoming Features 🚀
 - Many new tools and improvements for a better fishing experience are planned  
 - Ideas, suggestions, and feedback are welcome: contact [biguniakdev@gmail.com](mailto:biguniakdev@gmail.com)  
-
-### Contacts & Communities 📱
-- [Telegram Group](https://t.me/BiteZoneGroup)  
-- [Telegram Channel](https://t.me/BiteZoneApp)
 
 ### Privacy Policy 🔒
 Learn more about how user data is handled in our [Privacy Policy](privacy-policy.md)
