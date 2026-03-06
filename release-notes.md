@@ -7,6 +7,9 @@ BiteZone helps you track your fishing sessions and organize your favorite waters
 
 ## RELEASE CANDIDATE (Beta testing)
 
+## Version 0.3.0(0)
+- Added onboarding tips
+
 ## Version 0.2.0(0)
 - Improved the initial language selection. If the preferred system language is supported, it will be set. If not, English will be used by default.
 - Added ability to remove location coordinates on the location details screen.
