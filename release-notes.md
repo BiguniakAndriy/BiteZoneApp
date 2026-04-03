@@ -7,6 +7,16 @@ BiteZone helps you track your fishing sessions and organize your favorite waters
 
 ## RELEASE CANDIDATE (Beta testing)
 
+## Version 0.5.2
+Requires removing the old app version before installing the new one from TestFlight.
+- Added images gallery.
+- Added image full screen carousel.
+- Improved tips.
+- Improved localized texts.
+- Implemented a deduplication mechanism for data models and local files.
+- Implemented a loading state for heavy tasks.
+- Hudge infrastucrure changes for better performance and stability. 
+
 ## Version 0.3.2
 - Improved localized texts.
 - Fixed bug when the `Open details` tip was presented for every item in the list.
