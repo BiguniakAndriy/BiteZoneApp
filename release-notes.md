@@ -7,6 +7,11 @@ BiteZone helps you track your fishing sessions and organize your favorite waters
 
 ## RELEASE CANDIDATE (Beta testing)
 
+## Version 0.5.3
+- Aligned parameter setting behavior. Now they are updated within modal views.
+- Improved settings module performance.
+- Fixed theme change observation.
+
 ## Version 0.5.2
 Requires removing the old app version before installing the new one from TestFlight.
 - Added images gallery.
