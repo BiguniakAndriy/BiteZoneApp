@@ -7,6 +7,18 @@ BiteZone helps you track your fishing sessions and organize your favorite waters
 
 ## RELEASE CANDIDATE (Beta testing)
 
+## Version 0.5.4
+- Increased performance by improving the handling of persisted data.
+- Added orphan file cleanup mechanism.
+- New water info view.
+- Improved modal views - now they fit to the content size. 
+- Improved notes behavior and performance.
+- improved photos flow performance and fixed related bugs.
+- Improved localization texts.
+- Fixed crash related to the data model fetching isue.
+- Fixed modal view's UI. Now it's auto adjusted to the content's size.
+- Fixed bugs that affected performance during water editing.
+
 ## Version 0.5.3
 - Aligned parameter setting behavior. Now they are updated within modal views.
 - Improved settings module performance.
