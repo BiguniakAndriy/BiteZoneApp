@@ -5,8 +5,6 @@ Welcome to BiteZone!
 BiteZone helps you track your fishing sessions and organize your favorite waters and locations.
 
 
-## RELEASE CANDIDATE (Beta testing)
-
 ## Version 0.5.5
 - Improved session thumbnail.
 - Extended tips.
@@ -15,6 +13,10 @@ BiteZone helps you track your fishing sessions and organize your favorite waters
 - Improved water/location selection behavior.
 - Improved text fields focus state handling.
 - Small UI improvements.
+- Internal stabilizations. 
+
+
+# RELEASE CANDIDATE (Beta testing)
 
 ## Version 0.5.4
 - Increased performance by improving the handling of persisted data.
